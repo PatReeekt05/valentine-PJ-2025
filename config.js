@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Judielle",
+    valentineName: "Jude",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -57,17 +57,17 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#ffafbd",      // Background gradient start
-        backgroundEnd: "#ffc3a0",        // Background gradient end
-        buttonBackground: "#ff6b6b",     // Button color
-        buttonHover: "#ff8787",          // Button hover color
-        textColor: "#ff4757"            // Text color
+        backgroundStart: "#b1b2ff",      // Background gradient start
+        backgroundEnd: "#aac4ff",        // Background gradient end
+        buttonBackground: "#d2daff",     // Button color
+        buttonHover: "#aac4ff",          // Button hover color
+        textColor: "#eef1ff"            // Text color
     },
 
     // Animation settings
     // Adjust these if you want faster/slower animations
     animations: {
-        floatDuration: "18s",           // How long it takes hearts to float up (10-20s recommended)
+        floatDuration: "15s",           // How long it takes hearts to float up (10-20s recommended)
         floatDistance: "50px",          // How far hearts move sideways (30-70px recommended)
         bounceSpeed: "0.5s",            // Speed of bouncing animations (0.3-0.7s recommended)
         heartExplosionSize: 1.5         // Size of heart explosion effect (1.2-2.0 recommended)
